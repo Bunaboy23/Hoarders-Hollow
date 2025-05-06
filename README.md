@@ -39,6 +39,86 @@ Now the land — and its forgotten history — rests in your hands.
 The bank will reclaim it in 30 days unless you prove it's worth saving.
 
 ---
+📌 Development Progress
+✅ Version 1: Core Movement & Map Setup
+Implemented character movement using WASD keys
 
-## 🧩 Project Structure
+Added running functionality using Left Shift / Right Shift
+
+Designed the main map, featuring:
+
+Farmland and planting areas
+
+Houses and buildings
+
+River and bridge
+
+Breeding pens
+
+Forest zones
+
+Limited the character's movement to within the map boundaries
+
+Switched from full-map view to a camera-following system to enhance immersion
+
+✅ Version 2: Interior Maps & Transitions
+Created the second map (house interior)
+
+Added portal-based map transitions
+
+Improved character movement logic and animation mirroring
+
+Enabled seamless entry/exit between outdoor and indoor locations
+
+🚧 Version 3: UI & Gameplay Features (In Progress)
+Added a toolbar UI that toggles using the Tab key
+
+Prevents UI from blocking gameplay
+
+Only enabled on the main map where farming is allowed
+
+Introduced tool selection indicator with a blue highlight box
+
+Began implementing tool use animations
+
+Added animals with random idle behavior
+
+Continued optimization of tool interaction and animation polish
+
+🕹️ Gameplay Mechanics Summary
+Character Movement
+
+Move: WASD
+
+Run: Shift
+
+Map System
+
+Main map (farm, breeding zone, forest)
+
+House interior
+
+Marketplace (planned)
+
+Core Gameplay
+
+Planting seeds
+
+Watering crops
+
+Waiting for ripening
+
+Harvesting fruits
+
+Other Features
+
+Tool selection & animation
+
+UI toggle
+
+Camera follow system
+
+Animals with random movement
+
+Portal-based map switching
 
